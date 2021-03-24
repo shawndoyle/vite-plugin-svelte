@@ -14,6 +14,7 @@
     "@sveltejs/vite-plugin-svelte": "1.0.0-next.4"
   },
   "changesets": [
+    "fresh-penguins-heal",
     "light-bottles-warn"
   ]
 }
